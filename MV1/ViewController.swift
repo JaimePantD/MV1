@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //comentario desde ventana de github
     @IBOutlet weak var label: UILabel!
     
     override func viewDidLoad() {
